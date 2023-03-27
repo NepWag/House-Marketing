@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/House-Marketing/static/css/main.82710530.css",
+    "main.js": "/House-Marketing/static/js/main.aef86029.js",
+    "static/js/787.72fff71c.chunk.js": "/House-Marketing/static/js/787.72fff71c.chunk.js",
+    "static/media/back.jpg": "/House-Marketing/static/media/back.bf47c3b18db67d5c5c39.jpg",
+    "static/media/offer-bg.jpg": "/House-Marketing/static/media/offer-bg.978fd914ad7cfb9c7c3c.jpg",
+    "index.html": "/House-Marketing/index.html",
+    "main.82710530.css.map": "/House-Marketing/static/css/main.82710530.css.map",
+    "main.aef86029.js.map": "/House-Marketing/static/js/main.aef86029.js.map",
+    "787.72fff71c.chunk.js.map": "/House-Marketing/static/js/787.72fff71c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82710530.css",
+    "static/js/main.aef86029.js"
+  ]
+}
